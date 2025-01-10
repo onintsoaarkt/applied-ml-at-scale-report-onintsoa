@@ -1,6 +1,6 @@
 Applied Machine Learning at Scale: built a recommender system from scratch
 
-Onintsoa ANJARA RAKOTONDRANISA
+Onintsoa Anjara Rakotondranisa
 
 AI for Science / AIMS South Africa
 
